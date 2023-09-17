@@ -1,0 +1,125 @@
+---
+object: card
+id: 36d8a605-b20a-49b3-8b03-9c62e2e7e6c7
+oracle_id: 3fa71348-fa4d-4f39-a451-cf1570591991
+multiverse_ids:
+- 393969
+tcgplayer_id: 93648
+cardmarket_id: 270019
+name: Imperious Perfect
+lang: en
+released_at: '2014-12-05'
+uri: https://api.scryfall.com/cards/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7
+scryfall_uri: https://scryfall.com/card/evg/8/imperious-perfect?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/6/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7.jpg?1562906063
+  normal: https://cards.scryfall.io/normal/front/3/6/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7.jpg?1562906063
+  large: https://cards.scryfall.io/large/front/3/6/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7.jpg?1562906063
+  png: https://cards.scryfall.io/png/front/3/6/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7.png?1562906063
+  art_crop: https://cards.scryfall.io/art_crop/front/3/6/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7.jpg?1562906063
+  border_crop: https://cards.scryfall.io/border_crop/front/3/6/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7.jpg?1562906063
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Elf Warrior
+oracle_text: |-
+  Other Elves you control get +1/+1.
+  {G}, {T}: Create a 1/1 green Elf Warrior creature token.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 36d8a605-b20a-49b3-8b03-9c62e2e7e6c7
+  component: combo_piece
+  name: Imperious Perfect
+  type_line: Creature — Elf Warrior
+  uri: https://api.scryfall.com/cards/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7
+- object: related_card
+  id: 209af8af-7c40-4e87-8a4e-926c7ea76fb1
+  component: token
+  name: Elf Warrior
+  type_line: Token Creature — Elf Warrior
+  uri: https://api.scryfall.com/cards/209af8af-7c40-4e87-8a4e-926c7ea76fb1
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d5dbdea8-45f6-4d22-990b-6b6897f99d18
+set: evg
+set_name: 'Duel Decks Anthology: Elves vs. Goblins'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/d5dbdea8-45f6-4d22-990b-6b6897f99d18
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aevg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/evg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/36d8a605-b20a-49b3-8b03-9c62e2e7e6c7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3fa71348-fa4d-4f39-a451-cf1570591991&unique=prints
+collector_number: '8'
+digital: false
+rarity: uncommon
+flavor_text: In a culture of beauty, the most beautiful are worshipped as gods.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott M. Fischer
+artist_ids:
+- 23b0cf43-3e43-44c6-8329-96446eca5bce
+illustration_id: 9c08c16d-45d6-43bf-a376-43eb86578605
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1378
+penny_rank: 765
+prices:
+  usd: '0.43'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393969
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Imperious+Perfect&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Imperious+Perfect&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Imperious+Perfect
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93648?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Imperious+Perfect&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Imperious+Perfect&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

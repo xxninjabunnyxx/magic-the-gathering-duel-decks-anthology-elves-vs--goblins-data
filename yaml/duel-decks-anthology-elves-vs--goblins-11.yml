@@ -1,0 +1,109 @@
+---
+object: card
+id: 4680a8da-69bd-4dc9-b7b0-e15d9488a8d5
+oracle_id: 9d277206-9156-4dc9-bdd2-9d9219787735
+multiverse_ids:
+- 393989
+tcgplayer_id: 93665
+cardmarket_id: 270117
+name: Stonewood Invoker
+lang: en
+released_at: '2014-12-05'
+uri: https://api.scryfall.com/cards/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5
+scryfall_uri: https://scryfall.com/card/evg/11/stonewood-invoker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/6/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5.jpg?1562909295
+  normal: https://cards.scryfall.io/normal/front/4/6/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5.jpg?1562909295
+  large: https://cards.scryfall.io/large/front/4/6/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5.jpg?1562909295
+  png: https://cards.scryfall.io/png/front/4/6/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5.png?1562909295
+  art_crop: https://cards.scryfall.io/art_crop/front/4/6/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5.jpg?1562909295
+  border_crop: https://cards.scryfall.io/border_crop/front/4/6/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5.jpg?1562909295
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Elf Mutant
+oracle_text: "{7}{G}: Stonewood Invoker gets +5/+5 until end of turn."
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d5dbdea8-45f6-4d22-990b-6b6897f99d18
+set: evg
+set_name: 'Duel Decks Anthology: Elves vs. Goblins'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/d5dbdea8-45f6-4d22-990b-6b6897f99d18
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aevg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/evg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4680a8da-69bd-4dc9-b7b0-e15d9488a8d5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d277206-9156-4dc9-bdd2-9d9219787735&unique=prints
+collector_number: '11'
+digital: false
+rarity: common
+flavor_text: The Mirari pulses in his veins.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Peterson
+artist_ids:
+- 0fc26d3b-4c0e-41d1-8eb3-286ab55a2328
+illustration_id: 35267a9b-2ac3-4ccc-8fa1-1fed11a9a725
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 21235
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393989
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stonewood+Invoker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stonewood+Invoker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stonewood+Invoker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93665?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stonewood+Invoker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stonewood+Invoker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
